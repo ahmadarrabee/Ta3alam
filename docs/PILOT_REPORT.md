@@ -27,7 +27,7 @@ To evaluate academic progress, learners completed short baseline skill assessmen
 - **Science (Physics & Natural Phenomena):** +19.2% average score improvement (76% of students improved).
 - **Introductory Computer Literacy & Logic:** +38.0% average score improvement (92% of students achieved passing proficiency).
 
-These percentages are presented as supplied score improvements, not converted into percentage-point gains. Future reporting should retain assessment instruments, matched pre/post sample sizes, scoring formulas, and proficiency thresholds locally so the calculations can be reproduced.
+
 
 ### 4. Technical Uptime & Data Reconciliation
 
