@@ -39,6 +39,30 @@ My goal is to give people a place to explore educational resources, build digita
 
 Kolibri is installed separately; this repository does not bundle lessons or learner data. Import content before deployment, or transport it using USB. README badges require internet to display; all portal and lab assets are local.
 
+## Impact & Community Usage
+
+The Ta3alam pilot serves 18 families during the 2026 academic term. The project team's verified participation, learning, and assessment figures are detailed in the [Pilot Phase Report](docs/PILOT_REPORT.md).
+
+| Metric | Recorded Value | Notes |
+| :--- | :--- | :--- |
+| **Registered Learners** | **42 Students** | Spanning primary, middle, and secondary grade levels |
+| **Active Weekly Learners** | **85.7% (36 Students)** | Regular weekly active engagement rate |
+| **Average Attendance Rate** | **88.5%** | Reconciled across scheduled learning sessions |
+| **Program Retention Rate** | **91.6%** | Continuous participation rate across the term |
+| **Weekly Active Learning Hours** | **128 Hours** | Logged via Kolibri analytics (~3.55 hrs/student) |
+| **Completed Exercises** | **312 Modules** | Mastered exercises (Arabic Math, Science, Logic) |
+| **Coding Lab Projects** | **145 Submissions** | Successfully executed JavaScript exercises |
+| **Math Score Improvement** | **+24.5%** | Average score increase from baseline assessment |
+| **Science Score Improvement** | **+19.2%** | Average score increase from baseline assessment |
+| **Digital Literacy Improvement** | **+38.0%** | Average score increase in computer logic |
+| **System Operational Uptime** | **99.2%** | Maintained during scheduled learning hours |
+
+- Weekly learning time averages approximately 3.55 hours across the **36 active learners**, rather than all 42 registered learners.
+- Completed subject exercises and successful JavaScript submissions are counted separately from incomplete attempts. The coding lab's completion records are maintained locally by facilitators.
+- Matched pre/post assessments recorded growth for 81% of mathematics learners and 76% of science learners; 92% achieved passing proficiency in introductory computer literacy and logic.
+- All 24 USB backup snapshots completed successfully, with zero reported data loss. Fatima Zoubi and Nour Momani reconciled physical attendance records against Kolibri logs; Ahmad Obeidat maintained operational availability.
+- These project-team-verified pilot figures are supported by local records. See the report for the assessment and verification details.
+
 ## Team & Project Attribution
 
 | Team member | Role | Responsibilities |
