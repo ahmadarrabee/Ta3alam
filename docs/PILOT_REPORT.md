@@ -20,8 +20,3 @@ The team reports a **65% Kolibri mathematics/science and 35% coding-lab** activi
 
 Facilitators supervise sessions and support individual learner handles, locally installed Arabic resources, shared-device cleanup, and physical USB backups. See [operations](OPERATIONS.md), [safeguarding](SAFEGUARDING.md), and [backup verification](BACKUP_AND_RECOVERY.md).
 
-## What these results establish—and what remains unmeasured
-
-The reported counts describe reach, participation, activity, and backup production. They do not establish causal educational improvement. **Long-term standardized academic scores have not been measured**, and this report makes no claim of standardized-score gains, controlled comparisons, or sustained academic outcomes. Coding submissions do not by themselves demonstrate proficiency; snapshot counts do not establish recovery reliability.
-
-Future reporting should separate registrations from active attendance, define learner-hour calculations and submission counting, document backup restore pass/fail results, and distinguish observed learning progress from any later formal assessment. Keep public reporting aggregated and avoid exposing small groups or individual learners.
