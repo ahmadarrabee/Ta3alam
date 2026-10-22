@@ -35,7 +35,6 @@ These percentages are presented as supplied score improvements, not converted in
 - **Data Integrity:** 100% successful USB data backups (24 total snapshots executed) with zero data loss.
 - **Verification Protocol:** Physical attendance logs collected by Fatima Zoubi and Nour Momani were cross-reconciled against internal Kolibri database logs to ensure 100% data accuracy.
 
-The accuracy statement describes the team's reconciliation of the pilot records, rather than a guarantee about all future data. Successful backup execution and reported zero data loss do not replace the quarterly restoration tests in [Backup & Recovery Procedures](BACKUP_AND_RECOVERY.md).
 
 ## Operational breakdown
 
