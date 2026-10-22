@@ -9,6 +9,17 @@ An offline-first educational server platform built to deliver Arabic learning re
 
 An offline-first educational server platform built to deliver Arabic learning resources, digital literacy tools, and introductory programming labs to students in rural villages across Northern Jordan without mobile data or internet dependencies.
 
+## Project Documentation & Governance
+
+* [Privacy Policy](docs/PRIVACY.md)
+* [Operations Manual](docs/OPERATIONS.md)
+* [Backup & Recovery Procedures](docs/BACKUP_AND_RECOVERY.md)
+* [Safeguarding Policy](docs/SAFEGUARDING.md)
+* [Parent Notice (Arabic)](docs/PARENT_NOTICE_AR.md)
+* [Media Permission Template](docs/MEDIA_PERMISSION_TEMPLATE.md)
+* [Deployment Specification](docs/DEPLOYMENT.md)
+* [Pilot Phase Report](docs/PILOT_REPORT.md)
+
 ## Why I Built This
 
 This project began with my family. My cousins, uncles, and grandparents on both my mother's and father's sides live in Jordan. They come from families of modest means, and access to basic Wi-Fi, digital skills, and online learning opportunities is limited. These challenges extend beyond my relatives to the wider village community.
@@ -52,6 +63,7 @@ Kolibri is installed separately; this repository does not bundle lessons or lear
 offline-learning-hub/
 ├── README.md
 ├── LICENSE
+├── docs/                   # Governance and operational documentation
 ├── custom_interface/
 │   ├── index.html
 │   ├── style.css
@@ -167,17 +179,6 @@ node --check custom_interface/app.js
 node tests/test_heartbeat.cjs
 bash -n maintenance/backup_kolibri.sh
 ```
-
-## Project Documentation & Governance
-
-* [Privacy Policy](docs/PRIVACY.md)
-* [Operations Manual](docs/OPERATIONS.md)
-* [Backup & Recovery Procedures](docs/BACKUP_AND_RECOVERY.md)
-* [Safeguarding Policy](docs/SAFEGUARDING.md)
-* [Parent Notice (Arabic)](docs/PARENT_NOTICE_AR.md)
-* [Media Permission Template](docs/MEDIA_PERMISSION_TEMPLATE.md)
-* [Deployment Specification](docs/DEPLOYMENT.md)
-* [Pilot Phase Report](docs/PILOT_REPORT.md)
 
 Tests cover backup success, unique names, missing sources, unmounted USBs, partial failures, service states, and heartbeat success/failure/timeout recovery. In a browser, verify Arabic layout at tablet/phone widths, literal HTML-looking output, syntax errors, multiple log arguments, and `while (true) {}` timeout/stop behavior. Ubuntu service and physical USB integration must also be verified on the deployment hardware.
 
