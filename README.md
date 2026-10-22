@@ -3,10 +3,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Ubuntu_Linux-orange.svg)
 ![Environment](https://img.shields.io/badge/Environment-Offline_Rural-green.svg)
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)[cite: 1]
-![Platform](https://img.shields.io/badge/Platform-Ubuntu_Linux-orange.svg)[cite: 1]
-![Environment](https://img.shields.io/badge/Environment-Offline_Rural-green.svg)[cite: 1]
 ![Status](https://img.shields.io/badge/Status-Operating_Service-brightgreen.svg)
 
 An offline-first educational server platform built to deliver Arabic learning resources, digital literacy tools, and introductory programming labs to students in rural villages across Northern Jordan without mobile data or internet dependencies[cite: 1]. **Current operational status: Operating service.**
