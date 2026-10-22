@@ -168,6 +168,17 @@ node tests/test_heartbeat.cjs
 bash -n maintenance/backup_kolibri.sh
 ```
 
+## Project Documentation & Governance
+
+* [Privacy Policy](docs/PRIVACY.md)
+* [Operations Manual](docs/OPERATIONS.md)
+* [Backup & Recovery Procedures](docs/BACKUP_AND_RECOVERY.md)
+* [Safeguarding Policy](docs/SAFEGUARDING.md)
+* [Parent Notice (Arabic)](docs/PARENT_NOTICE_AR.md)
+* [Media Permission Template](docs/MEDIA_PERMISSION_TEMPLATE.md)
+* [Deployment Specification](docs/DEPLOYMENT.md)
+* [Pilot Phase Report](docs/PILOT_REPORT.md)
+
 Tests cover backup success, unique names, missing sources, unmounted USBs, partial failures, service states, and heartbeat success/failure/timeout recovery. In a browser, verify Arabic layout at tablet/phone widths, literal HTML-looking output, syntax errors, multiple log arguments, and `while (true) {}` timeout/stop behavior. Ubuntu service and physical USB integration must also be verified on the deployment hardware.
 
 ## License
