@@ -7,8 +7,6 @@
 
 An offline-first educational server platform built to deliver Arabic learning resources, digital literacy tools, and introductory programming labs to students in rural villages across Northern Jordan without mobile data or internet dependencies. **Current operational status: Operating service.**
 
-An offline-first educational server platform built to deliver Arabic learning resources, digital literacy tools, and introductory programming labs to students in rural villages across Northern Jordan without mobile data or internet dependencies.
-
 ## Project Documentation & Governance
 
 * [Privacy Policy](docs/PRIVACY.md)
