@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Applies to the Northern Jordan Offline Village Learning Hub during the 2026 academic term. Policy owner: Ahmad Arrabee. Review at the start of each term and after any incident or system change.
+Policy owner: Ahmad Arrabee. Review at the start of each term and after any incident or system change.
 
 ## Information collected
 
