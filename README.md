@@ -39,7 +39,7 @@ Kolibri is installed separately; this repository does not bundle lessons or lear
 
 ## Impact & Community Usage
 
-The Ta3alam pilot serves 18 families during the 2025 academic term. The project team's verified participation, learning, and assessment figures are detailed in the [Pilot Phase Report](docs/PILOT_REPORT.md).
+The Ta3alam pilot served 18 families during the 2025 academic term, all of whom remain active in the program today. The project team's verified participation, learning, and assessment figures are detailed in the [Pilot Phase Report](docs/PILOT_REPORT.md).
 
 | Metric | Recorded Value | Notes |
 | :--- | :--- | :--- |
