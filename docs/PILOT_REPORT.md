@@ -1,6 +1,6 @@
 # Pilot Phase Report — 2025 Academic Term  -  September 7, 2025, to December 13, 2025 (a 14-week active term).
 
-**Phase: active operations.** The Ta3alam hub is an operating educational service in Northern Jordan, reaching 18 families during the 2026 academic term. The verified metrics and reconciliation protocol below were supplied by the project team for this update. Underlying learner records and assessment data remain local under the [privacy policy](PRIVACY.md); they are not published or independently audited in this repository. A precise reporting window and cutoff date were not supplied.
+**Phase: active operations.** The Ta3alam hub is an operating educational service in Northern Jordan, reaching 18 families during the 2025 academic term. The verified metrics and reconciliation protocol below were supplied by the project team for this update. Underlying learner records and assessment data remain local under the [privacy policy](PRIVACY.md); they are not published or independently audited in this repository. A precise reporting window and cutoff date were not supplied.
 
 ## Verified Educational Progress & Participation Impact (Ta3alam Pilot)
 
