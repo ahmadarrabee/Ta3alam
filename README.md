@@ -5,7 +5,7 @@
 ![Environment](https://img.shields.io/badge/Environment-Offline_Rural-green.svg)
 ![Status](https://img.shields.io/badge/Status-Operating_Service-brightgreen.svg)
 
-An offline-first educational server platform built to deliver Arabic learning resources, digital literacy tools, and introductory programming labs to students in rural villages across Northern Jordan without mobile data or internet dependencies[cite: 1]. **Current operational status: Operating service.**
+An offline-first educational server platform built to deliver Arabic learning resources, digital literacy tools, and introductory programming labs to students in rural villages across Northern Jordan without mobile data or internet dependencies. **Current operational status: Operating service.**
 
 An offline-first educational server platform built to deliver Arabic learning resources, digital literacy tools, and introductory programming labs to students in rural villages across Northern Jordan without mobile data or internet dependencies.
 
