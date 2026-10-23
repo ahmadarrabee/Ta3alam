@@ -1,4 +1,4 @@
-# Offline Village Learning Hub - Northern Jordan
+# Ta3alam - Offline Village Learning Hub - Northern Jordan
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Ubuntu_Linux-orange.svg)
