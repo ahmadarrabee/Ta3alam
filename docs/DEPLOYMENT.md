@@ -1,6 +1,6 @@
 # Deployment Specification
 
-Baseline for the Northern Jordan hub, 2026 academic term. This is the intended deployment specification; verify actual hardware, installed versions, paths, and content on site. Cost estimates below are team planning figures, not current retail quotations.
+Baseline for the Northern Jordan hub, 2025 academic term. This is the intended deployment specification; verify actual hardware, installed versions, paths, and content on site. Cost estimates below are team planning figures, not current retail quotations.
 
 ## Hardware and indicative costs
 
