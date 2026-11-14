@@ -10,7 +10,7 @@ The Ta3alam (تعلّم) offline learning hub is a community educational initiat
 
 - **Active Learner Rate:** 85.7% (36 out of 42 registered students log in and participate regularly on a weekly basis).
 - **Attendance Consistency:** 88.5% average weekly session attendance across scheduled community center blocks.
-- **Student Retention Rate:** 91.6% of enrolled learners remained actively engaged over the entire pilot term without dropping off.
+- **Student Retention Rate:** 92.9% of enrolled learners (39 of 42 students) remained enrolled through term end.
 
 ### 2. Verified Learning Volume & Exercise Completion
 
