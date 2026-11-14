@@ -17,6 +17,7 @@ An offline-first educational server platform built to deliver Arabic learning re
 * [Media Permission Template](docs/MEDIA_PERMISSION_TEMPLATE.md)
 * [Deployment Specification](docs/DEPLOYMENT.md)
 * [Pilot Phase Report](docs/PILOT_REPORT.md)
+* [University Portfolio Packet](docs/UNIVERSITY_PORTFOLIO_PACKET.md)
 
 ## Why I Built This
 
@@ -39,29 +40,31 @@ Kolibri is installed separately; this repository does not bundle lessons or lear
 
 ## Impact & Community Usage
 
-The Ta3alam pilot served 18 families during the 2025 academic term, all of whom remain active in the program today. The project team's verified participation, learning, and assessment figures are detailed in the [Pilot Phase Report](docs/PILOT_REPORT.md).
+The Ta3alam pilot served 42 registered learners across 18 households from September 7 to December 13, 2025. Figures below describe that pilot term; they do not establish current participation. Project-team-reported participation, learning, and assessment figures and their limitations are detailed in the [Pilot Phase Report](docs/PILOT_REPORT.md).
 
 | Metric | Recorded Value | Notes |
 | :--- | :--- | :--- |
 | **Registered Learners** | **42 Students** | Spanning primary, middle, and secondary grade levels |
 | **Active Weekly Learners** | **85.7% (36 Students)** | Regular weekly active engagement rate |
-| **Average Attendance Rate** | **88.5%** | Reconciled across scheduled learning sessions |
-| **Program Retention Rate** | **91.6%** | Continuous participation rate across the term |
-| **Weekly Active Learning Hours** | **128 Hours** | Logged via Kolibri analytics (~3.55 hrs/student) |
-| **Completed Exercises** | **312 Modules** | Mastered exercises (Arabic Math, Science, Logic) |
+| **Pooled Session Attendance** | **88.5% (892/1,008)** | Attended learner-sessions / expected learner-sessions |
+| **Program Retention Rate** | **92.9% (39/42)** | Learners remaining enrolled through term end |
+| **Weekly Active Learning Hours** | **128 Hours** | Logged via Kolibri analytics (~3.56 hrs/active learner) |
+| **Completed Exercises** | **312 Exercises** | Mastered exercises (Arabic Math, Science, Logic) |
 | **Coding Lab Projects** | **145 Submissions** | Successfully executed JavaScript exercises |
-| **Math Score Improvement** | **+24.5%** | Average score increase from baseline assessment |
-| **Science Score Improvement** | **+19.2%** | Average score increase from baseline assessment |
-| **Digital Literacy Improvement** | **+38.0%** | Average score increase in computer logic |
+| **Math Score Improvement** | **+24.5%** | Reported pre/post score improvement; calculation method not documented |
+| **Science Score Improvement** | **+19.2%** | Reported pre/post score improvement; calculation method not documented |
+| **Digital Literacy Improvement** | **+38.0%** | Reported pre/post score improvement; calculation method not documented |
 | **System Operational Uptime** | **99.2%** | Maintained during scheduled learning hours |
 
-- Weekly learning time averages approximately 3.55 hours across the **36 active learners**, rather than all 42 registered learners.
-- Completed subject exercises and successful JavaScript submissions are counted separately from incomplete attempts. The coding lab's completion records are maintained locally by facilitators.
+- Weekly learning time averages approximately 3.56 hours across the **36 active learners**, rather than all 42 registered learners.
+- Completed subject exercises and successful JavaScript submissions are counted separately from incomplete attempts. Coding-lab completions were recorded separately by local facilitators; those records follow the privacy retention policy.
 - Matched pre/post assessments recorded growth for 81% of mathematics learners and 76% of science learners; 92% achieved passing proficiency in introductory computer literacy and logic.
 - All 24 USB backup snapshots completed successfully, with zero reported data loss. Fatima Zoubi and Nour Momani reconciled physical attendance records against Kolibri logs; Ahmad Obeidat maintained operational availability.
-- These project-team-verified pilot figures are supported by local records. See the report for the assessment and verification details.
+- These figures were supplied by the project team and are not independently audited by this repository. Under the privacy policy, identifiable records must be deleted or irreversibly aggregated after the retention window. See the report for evidence limitations.
 
 ## Team & Project Attribution
+
+The four-person project team comprises Ahmad Arrabee and the three local team members listed below.
 
 | Team member | Role | Responsibilities |
 | --- | --- | --- |

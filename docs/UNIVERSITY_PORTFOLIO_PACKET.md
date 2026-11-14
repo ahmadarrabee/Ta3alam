@@ -1,40 +1,44 @@
-# Ta3alam (تعلّم) — Official Project Verification & Supporting Dossier
+# Ta3alam (تعلّم) — Project Summary & Supporting Dossier
 **Prepared for University Admissions Review**  
 **Organization:** Ta3alam Offline Learning Hub (Northern Jordan)  
 **Founder & Lead System Architect:** Ahmad Arrabee  
 **Active Pilot Term:** September 7, 2025 – December 13, 2025 (14 Weeks)  
-**Repository:** `[github.com/ahmadarrabee/offline-learning-hub](https://github.com/ahmadarrabee/offline-learning-hub)`
+**Repository:** [github.com/ahmadarrabee/Ta3alam](https://github.com/ahmadarrabee/Ta3alam)
 
 ---
 
 ## 1. Executive Summary of Achievement
 Ta3alam (تعلّم) is a community-operated offline digital learning hub established to bridge connectivity gaps for low-income households in Northern Jordan. Serving **42 registered learners across 18 households**, the platform delivers curriculum-aligned educational content and interactive programming modules without requiring active internet access.
 
-As Founder and Lead System Architect, Ahmad Arrabee engineered the local Wi-Fi network topology, deployed the Ubuntu Linux and Kolibri LMS server infrastructure, built the custom RTL Arabic web portal and sandboxed JavaScript coding environment, and led a 4-person multidisciplinary operations team.
+As Founder and Lead System Architect, Ahmad Arrabee engineered the local Wi-Fi network topology, deployed the Ubuntu Linux and Kolibri LMS server infrastructure, built the custom RTL Arabic web portal and Web Worker–based educational JavaScript runner, and led the four-person project team comprising himself and three local team members.
 
 ---
 
-## 2. Verified Operational & Impact Summary
+## 2. Project-Team-Reported Operational & Impact Summary
 * **Community Reach:** 42 registered learners across 18 low-income households.
-* **Engagement Volume:** 128.0 aggregate weekly learning hours (107,520 cumulative active minutes across the 14-week term).
+* **Engagement Volume:** 128.0 aggregate weekly learning hours (107,520 estimated whole-term active minutes, calculated as 128 × 14 × 60).
 * **Attendance & Retention:** 88.5% pooled session attendance consistency (892 attended learner-sessions out of 1,008 expected) and 92.9% enrolled student retention (39 of 42 students remaining enrolled through term end).
-* **Academic & Digital Literacy Outcomes:** Documented relative group mean score improvements across project-developed pre/post assessments in Digital Literacy & Programming Logic (+38.0%), Mathematics (+24.5%), and Natural Sciences (+19.2%) among $N = 36$ matched test pairs (alongside a reported 92% digital literacy and logic mastery benchmark).
+* **Academic & Digital Literacy Outcomes:** Reported pre/post score improvements across project-developed assessments in Digital Literacy & Programming Logic (+38.0%), Mathematics (+24.5%), and Natural Sciences (+19.2%) with 36 matched pre/post test pairs reported by the team (alongside reported 92% passing proficiency in digital literacy and logic). The calculation method, subject-specific denominators, and passing threshold are not documented in the repository.
 
 ---
 
 ## 3. Technical Architecture & Leadership Contributions
 * **Network & Hardware Infrastructure:** Designed and configured the local offline Wi-Fi distribution network enabling simultaneous low-latency client access across community study blocks.
-* **Software Stack:** Deployed Kolibri LMS on Ubuntu Linux, built a custom Right-to-Left (RTL) Arabic user portal, and engineered an isolated in-browser JavaScript coding sandbox utilizing Web Workers with a 3-second execution timeout.
-* **Team Leadership:** Directed a 4-person local team overseeing hardware maintenance, facilitator onboarding, student safeguarding, and attendance auditing.
+* **Software Stack:** Deployed Kolibri LMS on Ubuntu Linux, built a custom Right-to-Left (RTL) Arabic user portal, and engineered an in-browser educational JavaScript runner utilizing Web Workers with a 3-second execution timeout. It separates execution from the page but is not a security sandbox for hostile code.
+* **Team Leadership:** Led the four-person project team, including himself and three local team members, overseeing hardware maintenance, facilitator onboarding, student safeguarding, and attendance auditing.
 
 ---
 
 ## 4. Repository Artifact Index (Supporting Evidence)
-Admissions reviewers can inspect the complete technical implementation, governance policies, and evaluation instruments in the following repository files:
+Admissions reviewers can inspect the published prototype source, deployment guidance, governance policies, and reported pilot results in the following repository files:
 * **System Architecture & Setup:** `README.md` and `docs/DEPLOYMENT.md`
-* **Pilot Evaluation Framework & Metrics:** `docs/PILOT_REPORT.md`
+* **Reported Pilot Metrics & Evidence Limitations:** `docs/PILOT_REPORT.md`
 * **Operations & Safeguarding Governance:** `docs/OPERATIONS.md`, `docs/SAFEGUARDING.md`, and `docs/PRIVACY.md`
-* **Sandboxed Coding Lab Source Code:** `custom_interface/` and `programming_activities/`
+* **Educational JavaScript Runner Source Code:** `custom_interface/` and `programming_activities/`
+
+---
+
+The repository does not contain assessment instruments, rubrics, anonymized score summaries, calculation worksheets, or historical operational logs. Results are supplied by the project team and are not independently audited. Identifiable learner records are subject to the privacy policy's deletion and aggregation deadlines; this dossier does not establish their continuing availability. The signature section below is blank and does not constitute completed third-party verification.
 
 ---
 
