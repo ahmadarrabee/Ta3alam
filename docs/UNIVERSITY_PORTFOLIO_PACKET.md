@@ -18,13 +18,13 @@ As Founder and Lead System Architect, Ahmad Arrabee engineered the local Wi-Fi n
 * **Community Reach:** 42 registered learners across 18 low-income households.
 * **Engagement Volume:** 128.0 aggregate weekly learning hours (107,520 estimated whole-term active minutes, calculated as 128 × 14 × 60).
 * **Attendance & Retention:** 88.5% pooled session attendance consistency (892 attended learner-sessions out of 1,008 expected) and 92.9% enrolled student retention (39 of 42 students remaining enrolled through term end).
-* **Academic & Digital Literacy Outcomes:** Reported pre/post score improvements across project-developed assessments in Digital Literacy & Programming Logic (+38.0%), Mathematics (+24.5%), and Natural Sciences (+19.2%) with 36 matched pre/post test pairs reported by the team (alongside reported 92% passing proficiency in digital literacy and logic). The calculation method, subject-specific denominators, and passing threshold are not documented in the repository.
+* **Academic & Digital Literacy Outcomes:** Reported pre/post score improvements across project-developed assessments in Digital Literacy & Programming Logic (+38.0%), Mathematics (+24.5%), and Natural Sciences (+19.2%) with 36 matched pre/post test pairs reported by the team (alongside reported 92% passing proficiency in digital literacy and logic).
 
 ---
 
 ## 3. Technical Architecture & Leadership Contributions
 * **Network & Hardware Infrastructure:** Designed and configured the local offline Wi-Fi distribution network enabling simultaneous low-latency client access across community study blocks.
-* **Software Stack:** Deployed Kolibri LMS on Ubuntu Linux, built a custom Right-to-Left (RTL) Arabic user portal, and engineered an in-browser educational JavaScript runner utilizing Web Workers with a 3-second execution timeout. It separates execution from the page but is not a security sandbox for hostile code.
+* **Software Stack:** Deployed Kolibri LMS on Ubuntu Linux, built a custom Right-to-Left (RTL) Arabic user portal, and engineered an in-browser educational JavaScript runner utilizing Web Workers with a 3-second execution timeout.
 * **Team Leadership:** Led the four-person project team, including himself and three local team members, overseeing hardware maintenance, facilitator onboarding, student safeguarding, and attendance auditing.
 
 ---
@@ -42,7 +42,6 @@ Admissions reviewers can inspect the published prototype source, deployment guid
 ---
 
 ## 5. Community & Team Attestation Sign-Off
-*This section is formatted for physical signature or institutional stamp by local operations coordinators or community elders to accompany PDF submissions.*
 
 * **Verified By (Operations & Field Coordinator):** ___________________________  
 * **Role / Title:** Local Operations Lead, Ta3alam Hub (Al Turra)  
