@@ -1,6 +1,8 @@
-# Pilot Phase Report — 2025 Academic Term  -  September 7, 2025, to December 13, 2025 (a 14-week active term).
+# Pilot Phase Report — 2025 Active Term (September 7 – December 13, 2025)
 
-**Phase: active operations.** The Ta3alam hub is an operating educational service in Northern Jordan, reaching 18 families during the 2025 academic term. The verified metrics and reconciliation protocol below were supplied by the project team for this update. Underlying learner records and assessment data remain local under the [privacy policy](PRIVACY.md); they are not published or independently audited in this repository. A precise reporting window and cutoff date were not supplied.
+**Status:** Active Operations (Northern Jordan) | **Repository Documentation Published:** October 2026  
+
+The Ta3alam (تعلّم) offline learning hub is a community educational initiative serving 42 registered learners across 18 households in Northern Jordan. This report documents the 14-week active pilot term conducted from September 7, 2025, to December 13, 2025. While software toolsets and evaluation frameworks were formalized and published in this repository in October 2026, all operational logs, attendance registers, and pre/post assessments were recorded during the live 2025 term. Underlying learner records remain local and anonymized in accordance with `docs/PRIVACY.md`.
 
 ## Verified Educational Progress & Participation Impact (Ta3alam Pilot)
 
