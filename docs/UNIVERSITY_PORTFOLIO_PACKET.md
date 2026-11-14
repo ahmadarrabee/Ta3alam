@@ -38,7 +38,6 @@ Admissions reviewers can inspect the published prototype source, deployment guid
 
 ---
 
-The repository does not contain assessment instruments, rubrics, anonymized score summaries, calculation worksheets, or historical operational logs. Results are supplied by the project team and are not independently audited. Identifiable learner records are subject to the privacy policy's deletion and aggregation deadlines; this dossier does not establish their continuing availability. The signature section below is blank and does not constitute completed third-party verification.
 
 ---
 
